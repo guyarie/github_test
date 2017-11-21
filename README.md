@@ -1,2 +1,2 @@
 # github_test
-to test any github features
+This is a dummy project to test any github features
